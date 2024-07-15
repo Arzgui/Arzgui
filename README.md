@@ -1,19 +1,21 @@
-### Bonjour! Welcome to My GitHub Profile! 🌟
+# French Tech Enthusiast 🇫🇷
 
-🔭 **What I'm Working On:**  
-Greetings from France! I'm a tech student passionate about creating apps that are both functional and engaging. Currently, I'm diving into Angular and Spring Boot—have a look at my latest endeavors!
+## About Me
+I'm a developer focused on building engaging applications using Angular & Spring Boot.
 
-👯 **Collaborate With Me:**  
-I’m on the lookout for fellow developers who share my enthusiasm for impactful tech. If you're versed in Java Spring Boot, Angular, or React Native, let’s join forces and learn from each other in the process!
+## What I'm Looking For
+- **Collaboration**: Open to projects involving Java, Angular, and React Native.
+- **Mentorship**: Seeking guidance on Spring Boot integration.
 
-🤝 **Seeking a Mentor:**  
-The complexities of Java Spring Boot are vast, and I'm seeking a mentor to help master its robust framework. Your guidance in integrating it with front-end technologies would be invaluable.
+## Highlights
+- **Passionate Developer**: Dedicated to creating functional and engaging applications.
+- **Tech Stack**: Currently diving deep into Angular & Spring Boot.
+- **Community Engagement**: Eager to collaborate with fellow developers on impactful projects.
+- **Open Discussions**: Happy to chat about app development, tech advice, or just code together.
 
-🌱 **Learning Journey:**  
-I’m enthusiastically learning Java Spring Boot, Angular, and React Native. I'm fascinated by how these tools can elevate both development skills and user experiences.
+## Connect With Me
+Feel free to reach out for collaborations, mentorship, or if you'd like to talk tech!
 
-💬 **Let’s Chat:**  
-Keen to discuss the latest in app development or just swap stories? Whether it’s tech advice or the best local spots for a coding session, send me a message!
 
 
 
