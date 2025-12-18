@@ -1,41 +1,54 @@
-# French Tech Enthusiast 🇫🇷
+# Junior DevSecOps / Observability 🇫🇷
 
 ## About Me
-I'm a developer focused on building engaging applications using Angular & Spring Boot.
+Junior profile focused on **security observability and automation**.  
+I worked on a 7-month internship building a **log pipeline → detection → alerting** stack, and a **CVE analysis workflow** (inventory × NVD) to support vulnerability prioritization and remediation (POC).
+
+## What I Do
+- **Security Observability**: Fluent Bit → Data Prepper → OpenSearch (Dashboards / alerting)
+- **Detection Engineering**: Windows Security Events (4624/4625/4688), MITRE ATT&CK (e.g., T1078, T1059)
+- **Noise Reduction**: allowlists (accounts) + correlation (failures → success / post-auth signals)
+- **Automation & Vulnerability**: Python module to query **NVD** and correlate with **GLPI/Medulla** inventories (remediation via Ansible = prototype)
+- **Delivery Mindset**: tested across **Docker → VM → remote server**, with runbooks and documentation
 
 ## What I'm Looking For
-- **Collaboration**: Open to projects involving Java, Angular, and React Native.
-- **Mentorship**: Seeking guidance on Spring Boot integration.
+- Junior roles (or internships) in:
+  - **DevSecOps / DevOps**
+  - **SOC / Detection Engineering (technical)**
+  - **Infrastructure / Operations with scripting & security**
+- Teams where I can **industrialize** POCs (CI, testing, hardening, documentation, tuning detections)
 
-## Highlights
-- **Passionate Developer**: Dedicated to creating functional and engaging applications.
-- **Tech Stack**: Currently diving deep into Angular & Spring Boot.
-- **Community Engagement**: Eager to collaborate with fellow developers on impactful projects.
-- **Open Discussions**: Happy to chat about app development, tech advice, or just code together.
+## Proof / Work
+- 🔹 **UEBA / SIEM POC**: log ingestion → detections → alerts (OpenSearch)
+- 🔹 **CVE module**: NVD API × inventory correlation (GLPI/Medulla)
+- 🔹 **Runbooks**: install/maintenance guides + decision docs (BookStack)
 
-## Connect With Me
-Feel free to reach out for collaborations, mentorship, or if you'd like to talk tech!
+> 📌 Tip: Pin 2–3 repos that represent your *security/observability* work (pipeline + CVE + docs).
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarimrezgui)
+
+---
+
+## 💻 Tech Stack (focused)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/opensearch-005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+![YAML](https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
+---
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelkarimrezgui) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arzgui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Arzgui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arzgui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzgui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arzgui&theme=blueberry&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzgui&theme=dark&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arzgui&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
