@@ -23,8 +23,6 @@ I worked on a 7-month internship building a **log pipeline → detection → ale
 - 🔹 **CVE module**: NVD API × inventory correlation (GLPI/Medulla)
 - 🔹 **Runbooks**: install/maintenance guides + decision docs (BookStack)
 
-> 📌 Tip: Pin 2–3 repos that represent your *security/observability* work (pipeline + CVE + docs).
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarimrezgui)
 
