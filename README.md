@@ -1,22 +1,5 @@
-# Junior DevSecOps / Observability 🇫🇷
+Software Engineer
 
-## About Me
-Junior profile focused on **security observability and automation**.  
-I worked on a 7-month internship building a **log pipeline → detection → alerting** stack, and a **CVE analysis workflow** (inventory × NVD) to support vulnerability prioritization and remediation (POC).
-
-## What I Do
-- **Security Observability**: Fluent Bit → Data Prepper → OpenSearch (Dashboards / alerting)
-- **Detection Engineering**: Windows Security Events (4624/4625/4688), MITRE ATT&CK (e.g., T1078, T1059)
-- **Noise Reduction**: allowlists (accounts) + correlation (failures → success / post-auth signals)
-- **Automation & Vulnerability**: Python module to query **NVD** and correlate with **GLPI/Medulla** inventories (remediation via Ansible = prototype)
-- **Delivery Mindset**: tested across **Docker → VM → remote server**, with runbooks and documentation
-
-## What I'm Looking For
-- Junior roles (or internships) in:
-  - **DevSecOps / DevOps**
-  - **SOC / Detection Engineering (technical)**
-  - **Infrastructure / Operations with scripting & security**
-- Teams where I can **industrialize** POCs (CI, testing, hardening, documentation, tuning detections)
 
 ## Proof / Work
 - 🔹 **UEBA / SIEM POC**: log ingestion → detections → alerts (OpenSearch)
