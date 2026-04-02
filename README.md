@@ -1,7 +1,6 @@
 # Abdelkarim Rezgui · Intégrateur systèmes & automatisation
 
-Développeur orienté **intégration** — j'assemble des composants existants pour construire des systèmes qui tiennent en production.
-Actuellement en recherche d'alternance · Fondateur de Madaneko en parallèle.
+Développeur orienté intégration — j'assemble des composants existants pour construire des systèmes qui tiennent en production. Fondateur de Madaneko · automatisation et outils IA pour TPE en Grand Est.
 ---
 
 ## Projets récents
