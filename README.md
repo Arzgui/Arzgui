@@ -1,35 +1,35 @@
-Software Engineer
+# Abdelkarim Rezgui · Intégrateur systèmes & automatisation
 
-
-## Proof / Work
-- 🔹 **UEBA / SIEM POC**: log ingestion → detections → alerts (OpenSearch)
-- 🔹 **CVE module**: NVD API × inventory correlation (GLPI/Medulla)
-- 🔹 **Runbooks**: install/maintenance guides + decision docs (BookStack)
-
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarimrezgui)
+Développeur orienté **intégration** — j'assemble des composants existants pour construire des systèmes qui tiennent en production.
+Actuellement : fondateur de [Madaneko](https://madaneko.fr), automatisation et outils IA pour TPE en Grand Est.
 
 ---
 
-## 💻 Tech Stack (focused)
+## Projets récents
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [job-runner](https://github.com/Arzgui/job-runner) | CLI & API de gestion de jobs asynchrones avec traçabilité | FastAPI · SQLModel · Click · pytest |
+| [theatre-augmente-securite](https://github.com/Arzgui/theatre-augmente-securite) | Prototype de supervision de spectacle containerisé | Node-RED · OSC · OpenSearch · Fluent Bit |
+| [UEBA](https://github.com/Arzgui/UEBA) | Stack SIEM/UEBA — ingestion logs, détections, alertes temps réel | OpenSearch · Data Prepper · Fluent Bit · Docker |
+| [Traduction-Automatis-Bookstack](https://github.com/Arzgui/Traduction-Automatis-Bookstack) | Traduction automatique de bases de connaissance BookStack via webhook | Python · LibreTranslate · FastAPI |
+| [medulla](https://github.com/Arzgui/medulla) | Fork — stage Natsu S.A.S. · Industrialisation d'un module sécurité | Python · OpenSearch · Docker |
+
+---
+
+## Stack
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/opensearch-005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-![YAML](https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Arzgui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arzgui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arzgui&theme=dark&hide_border=false&layout=compact)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arzgui&icon=2&color=9)](https://visitcount.itsvg.in)
+
+## Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarimrezgui)
