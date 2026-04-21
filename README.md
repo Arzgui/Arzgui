@@ -8,7 +8,8 @@
 
 **Python Automation · Observability · Backend Tooling · Technical Support**
 
-*Building practical tools around logs, APIs, automation and infrastructure operations.*
+*Je construis des outils internes qui résolvent de vrais problèmes opérationnels —*  
+*pipelines de logs, APIs d'automatisation, tooling de sécurité.*
 
 &nbsp;
 
@@ -31,10 +32,11 @@ focus:
   - technical support workflows
 
 background: >
-  Developer profile with ops, support and
-  security-oriented projects
+  Profil développeur avec des projets orientés ops,
+  support et sécurité — dont une expérience en stage
+  sur un contexte RMM/sécurité réel (Natsu S.A.S.)
 
-availability: "open to CDI/CDD — available now"
+availability: "open to CDI/CDD — disponible maintenant"
 location:    "Grand Est / Luxembourg border / remote-friendly"
 
 target_roles:
@@ -47,25 +49,25 @@ target_roles:
 
 ---
 
-## What I bring
+## Ce que j'apporte
 
 | | |
 |:---:|:---|
-| `→` | Build small internal tools that solve real operational problems |
-| `→` | Understand logs, pipelines, alerts, dashboards and troubleshooting workflows |
-| `→` | Connect systems through APIs, webhooks, JSON, XML and XML-RPC |
-| `→` | Document what I build so it can be understood, reused and maintained |
-| `→` | Comfortable across development, support, infrastructure and security topics |
+| `→` | Construire des outils internes qui résolvent de vrais problèmes opérationnels |
+| `→` | Comprendre les logs, pipelines, alertes, dashboards et workflows de troubleshooting |
+| `→` | Connecter des systèmes via APIs, webhooks, JSON, XML et XML-RPC |
+| `→` | Documenter ce que je construis pour qu'il soit compris, réutilisé et maintenu |
+| `→` | À l'aise sur des sujets croisés : développement, support, infrastructure, sécurité |
 
 ---
 
-## Featured projects
+## Projets phares
 
 <table>
 <thead>
 <tr>
-<th align="left">Project</th>
-<th align="left">What it does</th>
+<th align="left">Projet</th>
+<th align="left">Ce qu'il fait</th>
 <th align="left">Stack</th>
 </tr>
 </thead>
@@ -73,17 +75,18 @@ target_roles:
 
 <tr>
 <td><code>UEBA</code></td>
-<td>End-to-end security/observability lab — Windows Event Logs ingestion, parsing, dashboards, alerting and detection scenarios</td>
+<td>Stack SIEM/UEBA end-to-end — ingestion Windows Event Logs, parsing, dashboards, alertes temps réel et scénarios de détection MITRE ATT&CK</td>
 <td>
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=flat-square"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-555555?style=flat-square"/>
 </td>
 </tr>
 
 <tr>
 <td><code>job-runner</code></td>
-<td>Backend automation tool with REST API, CLI, persistence and test coverage</td>
+<td>CLI & API de gestion de jobs asynchrones avec traçabilité complète, persistence et couverture de tests</td>
 <td>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLModel-171717?style=flat-square"/>
@@ -93,7 +96,7 @@ target_roles:
 
 <tr>
 <td><code>bookstack-translate</code></td>
-<td>Documentation automation using API integration and event-driven translation workflows</td>
+<td>Traduction automatique de bases de connaissance BookStack via webhook et workflows event-driven</td>
 <td>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -103,7 +106,7 @@ target_roles:
 
 <tr>
 <td><code>theatre-augmente</code></td>
-<td>Creative observability experiment — live show signals routed into a logging/monitoring stack</td>
+<td>Prototype de supervision de spectacle — signaux live (OSC) routés dans un stack logging/monitoring containerisé</td>
 <td>
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSC-555555?style=flat-square"/>
@@ -112,12 +115,13 @@ target_roles:
 </tr>
 
 <tr>
-<td><code>medulla</code></td>
-<td>Internship — security tooling, CVE logic, log analysis and automation in a Medulla/RMM context</td>
+<td><code>medulla</code> <sup>stage</sup></td>
+<td><strong>Expérience professionnelle</strong> — stage Natsu S.A.S. · Industrialisation d'un module sécurité : CVE logic, log analysis, automatisation en contexte Medulla/RMM</td>
 <td>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML--RPC-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Prepper-005EB8?style=flat-square"/>
 </td>
 </tr>
 
@@ -126,7 +130,7 @@ target_roles:
 
 ---
 
-## Technical focus
+## Focus technique
 
 **Automation & backend tooling**
 
@@ -135,62 +139,64 @@ Python · FastAPI · REST APIs · XML-RPC · Webhooks
 JSON · XML · SQLModel · pytest · Click · CLI tools
 ```
 
-**Observability & security monitoring**
+**Observability & monitoring sécurité**
 
 ```
 OpenSearch · Fluent Bit · Data Prepper · Windows Event Logs
-Dashboards · Alerts · SIEM concepts · MITRE ATT&CK basics
+Dashboards · Alertes · Concepts SIEM · MITRE ATT&CK basics
 ```
 
 **Infrastructure & support**
 
 ```
 Docker · Linux · Bash · Git · GLPI · BookStack
-Node-RED · Ansible basics · Technical documentation
+Node-RED · Ansible basics · Documentation technique
 ```
 
 **IT fundamentals**
 
 ```
-Windows/Linux support · Troubleshooting · AD basics
+Support Windows/Linux · Troubleshooting · Bases AD
 Microsoft 365 basics · DNS/DHCP basics · VLAN/OSI basics
 ```
 
 ---
 
-## Current direction
+## Autres environnements explorés
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Culture acquise en formation et sur des projets annexes — pas mon focus principal, mais utile pour collaborer dans des équipes polyvalentes.
 
-**✦ Best fit**
-
-- automation scripting
-- backend / internal tooling
-- observability and log analysis
-- technical support / operations
-- infrastructure troubleshooting
-
-</td>
-<td width="50%" valign="top">
-
-**✗ Not my focus**
-
-- pure frontend
-- generic helpdesk with no technical growth
-- roles with no automation or systems exposure
-
-</td>
-</tr>
-</table>
-
-> Long-term direction: DevOps, observability, platform tooling or security automation —  
-> starting from roles where I can deliver concrete value quickly.
+```
+Java · JavaScript · TypeScript · React Native · Vue.js · HTML/CSS
+```
 
 ---
 
-## GitHub activity
+## Direction actuelle
+
+**Meilleur fit**
+
+- automation scripting & internal tooling
+- observability et analyse de logs
+- support technique / opérations
+- infrastructure & troubleshooting
+
+> Objectif long terme : DevOps, observability, platform tooling ou security automation —  
+> en partant de rôles où je peux livrer de la valeur concrète rapidement.
+
+---
+
+## Contact
+
+<div align="center">
+
+[`LinkedIn`](https://linkedin.com/in/abdelkarimrezgui) &nbsp;·&nbsp; [`GitHub`](https://github.com/Arzgui)
+
+</div>
+
+---
+
+## Activité GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arzgui&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github&custom_title=GitHub+stats" />
