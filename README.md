@@ -1,107 +1,77 @@
 <div align="center">
 
-<h1>A · B · D · E · L · K · A · R · I · M &nbsp; R .</h1>
+<h1>Abdelkarim&nbsp; R .</h1>
 
-<p><em>I build internal tools that solve real operational problems —<br>
-log pipelines, automation APIs, security tooling.</em></p>
+<p><em>I build backend tools and automation that solve real technical problems —<br>
+APIs, data pipelines, and observability.</em></p>
 
-&nbsp;
+ 
 
-![status](https://img.shields.io/badge/open%20to%20CDI%2FCDD-22c55e?style=flat-square&labelColor=0d1117)
-![location](https://img.shields.io/badge/Luxembourg%20border-6366f1?style=flat-square&labelColor=0d1117)
-![remote](https://img.shields.io/badge/remote--friendly-3b82f6?style=flat-square&labelColor=0d1117)
+![status](https://img.shields.io/badge/looking%20for-alternance-22c55e?style=flat-square\&labelColor=0d1117)
+![location](https://img.shields.io/badge/Grand%20Est%20%2F%20Luxembourg-6366f1?style=flat-square\&labelColor=0d1117)
+![focus](https://img.shields.io/badge/focus-backend%20%26%20automation-3b82f6?style=flat-square\&labelColor=0d1117)
 
 </div>
 
 ---
 
 ```yaml
-# who
-role:        "Automation & Systems Engineer"
-story:       "dev background → ops mindset → I connect things and make them observable"
-approach:    "I'd rather fix the root cause than silence the alert"
+# profile
+role:        "Backend Developer (Automation & Integration)"
+background:  "dev training + hands-on projects in logs, APIs and automation"
+strength:    "I connect systems, automate workflows and make them observable"
 
 # looking for
-status:      "available now — CDI/CDD"
-targets:     ["DevOps", "Platform Eng", "Backend Tooling", "Support N2/N3"]
-open_to:     "Luxembourg · Grand Est · remote"
-
-# on the side
-madaneko:    "AI & automation tooling for local SMEs — Grand Est"
+status:      "seeking a work-study position"
+targets:     ["Backend Developer", "Python Developer", "Technical Support / Integration"]
+location:    "Grand Est · Luxembourg · remote"
 ```
 
 ---
 
-**I bring** &nbsp; `log pipelines & observability` &nbsp; `automation APIs & webhooks` &nbsp; `security tooling` &nbsp; `cross-domain: dev · support · infra`
+**Core focus**
+`backend development` · `automation` · `APIs` · `log pipelines` · `integration`
 
 ---
 
 ## Projects
 
-| Repo | What it does | Stack |
-|------|-------------|-------|
-| [UEBA](https://github.com/Arzgui/UEBA) | End-to-end log ingestion — Windows Event Logs, MITRE ATT&CK detection rules, real-time alerts | `OpenSearch` `Fluent Bit` `Data Prepper` `Docker` |
-| [job-runner](https://github.com/Arzgui/job-runner) | REST API + CLI for async job scheduling — traceability, persistence, test coverage | `FastAPI` `SQLModel` `Click` `pytest` |
-| [bookstack-translate](https://github.com/Arzgui/Traduction-Automatis-Bookstack) | Event-driven pipeline — auto-translates BookStack pages on write, zero manual steps | `Python` `FastAPI` `LibreTranslate` |
-| [theatre-augmente](https://github.com/Arzgui/theatre-augmente-securite) | Live show supervision — OSC signals routed into a containerised observability stack | `Node-RED` `OSC` `OpenSearch` |
-| [medulla](https://github.com/Arzgui/medulla) *(Natsu S.A.S.)* | Industrialised a security module in prod — CVE logic, log analysis, XML-RPC, Medulla/RMM | `Python` `Docker` `XML-RPC` `Data Prepper` |
+| Repo                                                                            | What it does                                                                  | Stack                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------- |
+| [UEBA](https://github.com/Arzgui/UEBA)                                          | Log pipeline with detection rules and dashboards (Windows logs, MITRE ATT&CK) | `Python` `OpenSearch` `Fluent Bit` `Data Prepper` |
+| [job-runner](https://github.com/Arzgui/job-runner)                              | Async job scheduler with API + CLI, persistence and testing                   | `FastAPI` `SQLModel` `pytest`                     |
+| [bookstack-translate](https://github.com/Arzgui/Traduction-Automatis-Bookstack) | Event-driven pipeline for automated documentation translation                 | `Python` `FastAPI` `API`                          |
+| [theatre-augmente](https://github.com/Arzgui/theatre-augmente-securite)         | Real-time signal routing into an observability stack                          | `Node-RED` `OpenSearch`                           |
+| [medulla](https://github.com/Arzgui/medulla) *(stage project)*                  | Security module with CVE logic and API integration                            | `Python` `XML-RPC` `Docker`                       |
 
 ---
 
-## Stack
+## Skills
 
-**Automation & backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-555555?style=flat-square)
-![XML-RPC](https://img.shields.io/badge/XML--RPC-555555?style=flat-square)
+**Backend & Automation**
+Python · FastAPI · REST APIs · scripting · JSON/XML
 
-**Observability**  
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=flat-square)
-![Data Prepper](https://img.shields.io/badge/Data%20Prepper-005EB8?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E32629?style=flat-square)
+**Observability & Data**
+OpenSearch · Fluent Bit · Data Prepper · log analysis
 
-**Infra & tooling**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-004489?style=flat-square)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible%20basics-EE0000?style=flat-square&logo=ansible&logoColor=white)
+**Tools & Environment**
+Linux · Git · Docker (basics)
 
-**Also explored**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-
+**Other**
+Java · JavaScript (basics)
 
 ---
 
-## Activity
+## About me
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arzgui&show_icons=true&hide_border=true&count_private=true&theme=default&rank_icon=github&custom_title=GitHub+stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzgui&layout=compact&hide_border=true&theme=default&langs_count=6" />
-</p>
+* I prefer solving real technical problems over building demo projects
+* I enjoy working on systems that connect, automate and scale
+* I am currently focusing on backend development and automation
 
 ---
 
 <div align="center">
 
-[`LinkedIn`](https://linkedin.com/in/abdelkarimrezgui) &nbsp;·&nbsp; [`GitHub`](https://github.com/Arzgui)
-
-*Grand Est · Luxembourg border · remote-friendly · CDI/CDD*
+[`LinkedIn`](https://linkedin.com/in/abdelkarimrezgui) · [`GitHub`](https://github.com/Arzgui)
 
 </div>
