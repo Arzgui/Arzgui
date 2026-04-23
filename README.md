@@ -42,7 +42,7 @@ location:    "Grand Est · Luxembourg · remote"
 | [job-runner](https://github.com/Arzgui/job-runner)                              | Async job scheduler with API + CLI, persistence and testing                   | `FastAPI` `SQLModel` `pytest`                     |
 | [bookstack-translate](https://github.com/Arzgui/Traduction-Automatis-Bookstack) | Event-driven pipeline for automated documentation translation                 | `Python` `FastAPI` `API`                          |
 | [theatre-augmente](https://github.com/Arzgui/theatre-augmente-securite)         | Real-time signal routing into an observability stack                          | `Node-RED` `OpenSearch`                           |
-| [medulla](https://github.com/Arzgui/medulla) *(stage project)*                  | Security module with CVE logic and API integration                            | `Python` `XML-RPC` `Docker`                       |
+| [medulla](https://github.com/Arzgui/medulla)                 | Security module with CVE logic and API integration                            | `Python` `XML-RPC` `Docker`                       |
 
 ---
 
@@ -62,13 +62,7 @@ Java · JavaScript (basics)
 
 ---
 
-## About me
 
-* I prefer solving real technical problems over building demo projects
-* I enjoy working on systems that connect, automate and scale
-* I am currently focusing on backend development and automation
-
----
 
 <div align="center">
 
