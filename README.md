@@ -5,12 +5,6 @@
 <p><em>I build backend tools and automation that solve real technical problems —<br>
 APIs, data pipelines, and observability.</em></p>
 
- 
-
-![status](https://img.shields.io/badge/looking%20for-alternance-22c55e?style=flat-square\&labelColor=0d1117)
-![location](https://img.shields.io/badge/Grand%20Est%20%2F%20Luxembourg-6366f1?style=flat-square\&labelColor=0d1117)
-![focus](https://img.shields.io/badge/focus-backend%20%26%20automation-3b82f6?style=flat-square\&labelColor=0d1117)
-
 </div>
 
 ---
