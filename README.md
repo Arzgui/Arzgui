@@ -49,10 +49,10 @@ Python · FastAPI · REST APIs · scripting · JSON/XML
 OpenSearch · Fluent Bit · Data Prepper · log analysis
 
 **Tools & Environment**
-Linux · Git · Docker (basics)
+Linux · Git · Docker 
 
 **Other**
-Java · JavaScript (basics)
+Java · JavaScript 
 
 ---
 
